@@ -11,7 +11,7 @@ GO demo applications with all available gRPC types
 
 ### How To Run each application (example for **Greet** demo app)
 
-1) Compile gRPC code desribed in [Protocol Buffer](https://developers.google.com/protocol-buffers/) files
+1) Compile server & client gRPC code desribed in [Protocol Buffer](https://developers.google.com/protocol-buffers/) files
 
 ```
 ./generate.sh
