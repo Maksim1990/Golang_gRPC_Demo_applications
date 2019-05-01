@@ -25,5 +25,6 @@ go run greet/greet_client/client.go
 
 ### In order to test all other app (**Calculator** and **Blog CRUD + MongoDB**) run as well both server and client respectively.
 
+
 # How to test gRPC calls in [Postman](https://www.getpostman.com/)
-### CHECK  [INSTRUCTIONS](https://github.com/Maksim1990/Symfony_APP_Twitter/blob/Build_app_guide/public/github/APP_GUIDE.md)
+CHECK  [INSTRUCTIONS](https://github.com/Maksim1990/Symfony_APP_Twitter/blob/Build_app_guide/public/github/APP_GUIDE.md)
