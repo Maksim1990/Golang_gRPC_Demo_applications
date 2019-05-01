@@ -2,9 +2,9 @@
 GO demo applications with all available gRPC types
 
 ### About Application
-- Consist of 3 separate GO+gRPC demo apps
-- In each demo app integrated examples of following gRPC calls:
-  - Unary 
+- Consists of 3 separate GO+gRPC demo apps
+- Following examples of  gRPC calls are integrated in each demo app:
+  - Unary call
   - Server streaming
   - Client streaming
   - Bidirectional streaming
@@ -23,7 +23,7 @@ GO demo applications with all available gRPC types
 go run greet/greet_server/server.go
 ```
 
-3) Start client app and see out put of all gRPC call types
+3) Start client app and see output of all gRPC call types
 
 ```
 go run greet/greet_client/client.go 
